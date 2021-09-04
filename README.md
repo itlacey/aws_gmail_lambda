@@ -1,4 +1,4 @@
-# aws_gmail_lambda
+# AWS Email Lambda
 I git repo that with a little setup you can call to send emails, passing a target email, subject, message.
 
 
