@@ -1,5 +1,5 @@
 # AWS Email Lambda
-I git repo that with a little setup you can call to send emails, passing a target email, subject, message.
+A git repo that with a little setup you can call to send emails, passing a target email, subject, message.
 
 
 You will need to navigate to your gmail to get a key that you can save as an OS envioronment variable in AWS.
